@@ -5,7 +5,6 @@
 - 👀 I am interested in constantly learning new things
 - 🌱 I am currently learning full stack developer:
 -             *HTML-CSS-JS
--             *Typescript-Angular-React
 - 🌎🌍🌏 Languages of interest:
 -             *Portugues
 -             *English
