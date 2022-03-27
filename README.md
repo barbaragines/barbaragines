@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bárbara Ginés.
+- 👋 Hi, I’m Bárbara Ginés from Córdoba, Argentina.
 - 🎓 I am an Industrial Engineer.
 - 🤓 I am a data scientist.
 - 🤝 I am applying my knowledge in python as backend development
