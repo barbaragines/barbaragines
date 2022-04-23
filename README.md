@@ -4,7 +4,8 @@
 - 🤝 I am applying my knowledge in python as backend development
 - 👀 I am interested in constantly learning new things
 - 🌱 I am currently learning full stack developer:
--             *HTML-CSS-JS
+-             *HTML-CSS-JS 
+-             *Bootstrap - TypeScript- Angular
 - 🌎🌍🌏 Languages of interest:
 -             *Portugues
 -             *English
